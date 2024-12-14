@@ -1,3 +1,2 @@
 # My updated architecture diagram
-![image](https://github.com/user-attachments/assets/292c528e-1c4f-46b0-8700-5b24eaf0a10d)
-![image](https://github.com/user-attachments/assets/5c7a14bf-6284-412f-b55d-9729bf66a827)
+![awsupskilling_1 drawio (1)](https://github.com/user-attachments/assets/16832728-79d0-43c8-92a1-585f567c74b0)
